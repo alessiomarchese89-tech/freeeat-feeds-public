@@ -1,0 +1,35 @@
+{
+  "generato_il": "2026-11-21T07:02:44+00:00",
+  "sorgente": "store",
+  "sito": "https://www.freeeat.it",
+  "regole_spedizione": 0,
+  "prodotti_letti": 1661,
+  "esclusi_a_monte": 31,
+  "tipologia": {
+    "stimata_da_verificare": 208,
+    "stimata_alta_confidenza": 378,
+    "lotrek": 1044
+  },
+  "canali": {
+    "google": {
+      "file": "google.xml",
+      "prodotti": 1630,
+      "scartati_validazione": 0
+    },
+    "meta": {
+      "file": "meta.xml",
+      "prodotti": 1630,
+      "scartati_validazione": 0
+    },
+    "pinterest": {
+      "file": "pinterest.xml",
+      "prodotti": 1630,
+      "scartati_validazione": 0
+    },
+    "tiktok": {
+      "file": "tiktok.xml",
+      "prodotti": 1630,
+      "scartati_validazione": 0
+    }
+  }
+}
